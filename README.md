@@ -8,4 +8,4 @@
 
 Hi My name is Virender Singh
 Hi My name is Lavi Choudhary
-Hi my name is Tushr Singh.
+Hi my name is Tushar Singh.
