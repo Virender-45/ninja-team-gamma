@@ -267,9 +267,8 @@ export default function App() {
           </Pressable>
         </View>
       </View>
-
-      {/* Paginated list */}
       <EarningsList earnings={paginated} onDelete={handleDelete} onEdit={handleEdit} />
+
 
       {/* Pagination footer */}
       <View style={styles.paginationFooter}>
